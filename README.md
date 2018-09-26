@@ -16,4 +16,5 @@ Quick build instructions for Ubuntu:
 
 Windows and OS X builds available :
 
-https://bldc-tool.support
+https://bldc-tool.support - link seems to be broken
+[google drive share](https://drive.google.com/folderview?id=0Bym9XrdeViekfkRETmRndENkcVpySW5sWjIzOWdrLThCY01HY3BPOXpqYVRHUlQxS0R5ZlU) still seems to work
